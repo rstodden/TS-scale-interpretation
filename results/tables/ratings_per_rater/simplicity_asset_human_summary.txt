@@ -1,0 +1,40 @@
+**Inter-annotator agreement of all raters on all sentence pairs on dimension simplicity**
+IAA Cohen's Kappa of all raters: K=0.5828, ±0.059
+IAA Fleiss's Kappa of all raters: 0.1998
+
+**Inter-annotator agreement of all raters on only no-change pairs on dimension simplicity**
+IAA Cohen's Kappa of all raters: K=0.6014, ±0.0623
+IAA Fleiss's Kappa of all raters: 0.205
+
+**Inter-annotator agreement of all raters on only sentence pairs with a change on dimension simplicity**
+IAA Cohen's Kappa of all raters: K=-0.4038, ±0.265
+IAA Fleiss's Kappa of all raters: -0.0585
+
+**Statistics of raters with preference low on sentence pairs with a change on dimension simplicity**
+# raters: 7
+# ratings: 571
+Average: 35.58
+Standard deviation: 37.24
+
+**Inter-annotator agreement of raters with preference low on sentence pairs with a change on dimension simplicity**
+IAA Cohen's Kappa of rater with preference low: K=0.4783, ±0.0611
+IAA Fleiss's Kappa of rater with preference low: 0
+
+**Statistics of raters with preference middle on sentence pairs with a change on dimension simplicity**
+# raters: 6
+# ratings: 292
+Average: 44.43
+Standard deviation: 33.22
+
+**Inter-annotator agreement of raters with preference middle on sentence pairs with a change on dimension simplicity**
+IAA Cohen's Kappa of rater with preference middle: K=0.6232, ±0.043
+IAA Fleiss's Kappa of rater with preference middle: 0
+
+
+**Hypothesis test group low vs. middle on sentence pairs with a change on dimension simplicity:**
+n_low: 571
+n_middle: 292
+Test: mannwhitneyu
+correlation_coefficient: 64127.0
+p_value: 2.7811587597498055e-08
+=> significant!

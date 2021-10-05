@@ -1,0 +1,6 @@
+,rater,n,avg,std,same,group
+0,AnnotatorC,20,2.48,0.62,True,middle high
+1,AnnotatorE,20,2.42,0.47,True,middle high
+2,AnnotatorD,20,2.28,0.85,True,middle high
+3,AnnotatorA,20,2.52,0.8,True,middle high
+4,AnnotatorB,20,2.33,0.75,True,middle high

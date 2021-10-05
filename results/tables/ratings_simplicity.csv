@@ -1,0 +1,6 @@
+corpus,# sentences,# sentence-pairs,# no-change-pairs,# annotators,# annotation-records,# no-change-records,% no-change-records,# no-change simplicity ratings,expected value,expected ratings in %,unexpected ratings in %
+hsplit,70,1680,70,3,20160,4992,24.76,1248,0,99.76,0.24
+asset_human,100,100,5,31,4500,225,5.0,75,0;20,50.67,49.33
+human_system_likert,173,267,5,104,18630,216,1.16,72,0;20,50.0,50.0
+human_likert,173,108,3,104,9357,126,1.35,42,0;20,50.0,50.0
+system_likert,173,159,2,104,9273,90,0.97,30,0;20,50.0,50.0

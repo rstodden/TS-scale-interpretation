@@ -1,0 +1,2 @@
+corpus,# sentences,# sentence-pairs,# no-change-pairs,# annotators,# annotation-records,# no-change-records,% no-change-records,# no-change M ratings,expected value,expected ratings in %,unexpected ratings in %
+qats,173,505,80,,631,107,16.96,107,good,100.0,0.0
